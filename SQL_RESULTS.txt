@@ -1,0 +1,20 @@
+      segment  customers  conversions  conversion_rate  visit_rate  revenue_per_customer
+  Mens E-Mail      21307          267          0.01253     0.18276                 1.423
+    No E-Mail      21306          122          0.00573     0.10617                 0.653
+Womens E-Mail      21387          189          0.00884     0.15140                 1.077
+
+     channel       segment  customers  conversion_rate
+Multichannel   Mens E-Mail       2577          0.01707
+Multichannel     No E-Mail       2606          0.00691
+Multichannel Womens E-Mail       2579          0.01396
+       Phone   Mens E-Mail       9240          0.01082
+       Phone     No E-Mail       9327          0.00536
+       Phone Womens E-Mail       9454          0.00709
+         Web   Mens E-Mail       9490          0.01296
+         Web     No E-Mail       9373          0.00576
+         Web Womens E-Mail       9354          0.00919
+
+ newbie  treated  control  conversion_difference
+      0    10621    10611                0.00621
+      1    10686    10695                0.00740
+

@@ -1,0 +1,9 @@
+{
+  "test_rows": 8523,
+  "max_inference_error": 6.938893903907228e-18,
+  "render_functions": 4,
+  "sample_csv_rows": 10,
+  "invalid_input_rejected": true,
+  "visual_browser_test": false,
+  "streamlit_app_test": "passed, no exceptions"
+}
